@@ -1,5 +1,12 @@
 {
   "mcpServers": {
+    "skills-router": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "scripts/skills_router_mcp.py"
+      ]
+    },
     "tessl": {
       "type": "stdio",
       "command": "tessl",

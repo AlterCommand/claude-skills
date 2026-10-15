@@ -2,6 +2,9 @@
 .vscode
 .DS_Store
 
+# Cache and local indexing DBs
+.cache/
+
 # Environment files
 .env
 .env.*
